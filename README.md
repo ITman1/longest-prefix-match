@@ -43,3 +43,8 @@ make clean-outp clean output project files
 # Features
 - IPv4 and IPv6 support
 - optimized for fast processing
+
+## Contact and credits
+                             
+**Author:**    Radim Loskot  
+**gmail.com:** radim.loskot (e-mail)
